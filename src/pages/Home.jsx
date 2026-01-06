@@ -11,6 +11,7 @@ function Home() {
                     <ProductCard
                         title="Lizard"
                         description="Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+                        price={500}
                     />
                 </Grid>
 
@@ -18,12 +19,14 @@ function Home() {
                     <ProductCard 
                         title="Lizard" 
                         description="Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+                        price={500}
                     />
                 </Grid>
                 <Grid item xs={12} sm={6} md={4}>
                     <ProductCard
                         title="Lizard"
                         description="Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+                        price={500}
                     />
                 </Grid>
 
@@ -31,12 +34,14 @@ function Home() {
                     <ProductCard 
                         title="Lizard" 
                         description="Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+                        price={500}
                     />
                 </Grid>
                 <Grid item xs={12} sm={6} md={4}>
                     <ProductCard
                         title="Lizard"
                         description="Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+                        price={500}
                     />
                 </Grid>
 
@@ -44,6 +49,7 @@ function Home() {
                     <ProductCard 
                         title="Lizard" 
                         description="Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+                        price={500}
                     />
                 </Grid>
             </Grid>
